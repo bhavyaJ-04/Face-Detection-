@@ -6,8 +6,8 @@ This project integrates face detection into an E-Voting System to enhance securi
 Traditional e-voting systems rely on passwords or biometric authentication, which can be susceptible to spoofing or unauthorized access. This project enhances security by implementing a face detection module that verifies voters using facial recognition before allowing them to cast their votes.
 
 ## ⚙️ How It Works
----1️⃣ The voter initiates the e-voting login process.
----2️⃣ The system captures the voter's face in real-time using the webcam.
----3️⃣ The captured face is matched against the registered database.
----4️⃣ If verified, the voter is granted access to the secure blockchain-based voting system.
----5️⃣ The system ensures liveness detection to prevent spoofing attacks.
+--- The voter initiates the e-voting login process.
+--- The system captures the voter's face in real-time using the webcam.
+--- The captured face is matched against the registered database.
+--- If verified, the voter is granted access to the secure blockchain-based voting system.
+--- The system ensures liveness detection to prevent spoofing attacks.
